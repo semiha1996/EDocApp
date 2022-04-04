@@ -36,7 +36,7 @@ Smartphone Compatible web template, free webdesigns for Nokia, Samsung, LG, Sony
 			<div class="register-in">
 				<h1>Health Appointment form</h1>
 				<div class="registerimg">
-					<img src="images/doctor.png" alt="" />
+					<img src="images/doctor.png" alt="Doctor" />
 				</div>
 				<div class="register-form">
 					<form action="#" method="post">
@@ -57,7 +57,7 @@ Smartphone Compatible web template, free webdesigns for Nokia, Samsung, LG, Sony
 								<span></span>
 							</div> 
 							<div class="styled-input">
-								<h2>Sex :</h2>
+								<h2>Gender :</h2>
 								  <input type="radio" name="gender" value="male" checked> Male
 								  <input type="radio" name="gender" value="female"> Female
 							</div>

@@ -1,20 +1,15 @@
 <?php
 namespace EDocApp;
-/*
- * Click nbfs://nbhost/SystemFileSystem/Templates/Licenses/license-default.txt to change this license
- * Click nbfs://nbhost/SystemFileSystem/Templates/Scripting/PHPClass.php to edit this template
- */
 
 /**
- * Description of Specialisation
+ * Description of Medication
  *
  * @author semih
  */
-class Specialisation {
+class Medication {
     private int $id;
     private string $name;
     private string $description;
-    
     
     public function __construct(int $id, string $name, string $description) {
         $this->id = $id;

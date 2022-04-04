@@ -115,7 +115,7 @@ a:focus, a:hover {
     outline: none;
 }
 body {
-    background: url(../images/bg.jpg) no-repeat 0px 0px;
+    background: url(../images/bg1.jpg) no-repeat 0px 0px;
     background-size: cover;
     padding: 3em 0 2em;
     font-family: 'Poppins', sans-serif;
